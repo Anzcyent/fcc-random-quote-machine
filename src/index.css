@@ -1,0 +1,14 @@
+button:active {
+  transform: scale(.98);
+}
+
+
+@media (max-width: 767px) {
+  #text {
+    font-size: 9px;
+  }
+  
+  #author {
+    font-size: 9px;
+  }
+}
